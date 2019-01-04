@@ -1,4 +1,4 @@
-# DL-Introduction-to-Neural-Networks
+# DL-01-Introduction-to-Neural-Networks
 
 ---
 
